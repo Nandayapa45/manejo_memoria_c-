@@ -1,3 +1,4 @@
+//Elaborado por: Rodrigo Nandayapa Medina 2°O LIDTS
 #include <iostream>
 #include <cstdlib>
 #define maxf 3
